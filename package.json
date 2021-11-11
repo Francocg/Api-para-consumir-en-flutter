@@ -4,7 +4,7 @@
   "description": "api para consumir en flutter",
   "main": "index.js",
   "scripts": {
-    "start": "node"
+    "start": "node index.js"
   },
   "author": "Franco",
   "license": "ISC",
