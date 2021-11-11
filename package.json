@@ -4,7 +4,7 @@
   "description": "api para consumir en flutter",
   "main": "index.js",
   "scripts": {
-    "node": "nodemon inde.js"
+    "start": "node inde.js"
   },
   "author": "Franco",
   "license": "ISC",
